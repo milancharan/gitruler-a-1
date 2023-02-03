@@ -1,0 +1,32 @@
+Algorithm for Addition of two numbers
+
+step 1: Start
+step 2: Declare three variables A, B, Sum = 0
+step 3: Read both the numbers ex. A & B
+step 4: let sum = A + B
+step 5: let Print sum 
+step 6: End
+
+
+
+Algorithm for Area of Circle
+
+step 1: Start
+step 2: Declare vaiable r, Area
+step 3: Read radius r
+step 4: Let Area = 3.14 * r * r
+step 5: Print Area
+step 6: End
+
+
+
+Algorithm for Sum of all even numbers till n
+
+step 1: start
+step 2: Declare variable int i, int n, sum = 0
+step 3: Read n
+step 4: Run a loop from i=2 to i<=n
+step 5: Increment i by 2
+step 6: Assign sum = sum + i
+step 7: Print sum 
+step 8: End
